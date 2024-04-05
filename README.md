@@ -10,7 +10,7 @@ Im software developer and eternal student
 
 I currently want a full-time job as a Java developer.
 
-The programming languages ​​I master
+Languages 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,php,dart,java)](https://skillicons.dev)
 
