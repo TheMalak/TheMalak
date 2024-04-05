@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-I'm a software developer, graduated from the Benemérita Universidad Autónoma de Puebla, with a degree in Information Technology Engineering, although I consider myself an eternal student.
+I'm a software developer, graduated from the Benemérita Universidad Autónoma de Puebla, with a degree in Information Technology Engineering, although i consider myself an eternal student.
 
 - I'm currently learning AngularJs
 - I love create new projects in Java SE
