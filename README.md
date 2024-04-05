@@ -18,6 +18,9 @@ Tools that I use to create web applications
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,angular,js,html,sass,gcp,mysql,linux,npm,firebase,cloudflare,git)](https://skillicons.dev)
 
+My favourite IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm)](https://skillicons.dev)
 
 <!--
 **TheMalak/TheMalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
