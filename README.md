@@ -4,7 +4,7 @@
 
 I'm a software developer, graduated from the Benemérita Universidad Autónoma de Puebla, with a degree in Information Technology Engineering, although i consider myself an eternal student.
 
-- I'm currently learning AngularJs
+- I'm currently learning Angular
 - I love create new projects in Java SE
 - I have 9 years of experience creating website apps
 
