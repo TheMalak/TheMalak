@@ -4,7 +4,7 @@
 
 Im software developer and eternal student
 
-- I'm currently learnig AngularJs
+- I'm currently learning AngularJs
 - I love create new projects in Java SE
 - I have 9 years of experience creating website apps
 
