@@ -8,8 +8,6 @@ I'm a software developer, graduated from the Benemérita Universidad Autónoma d
 - I love create new projects in Java SE
 - I have 9 years of experience creating website apps
 
-I'm currently want a full-time job as a Java developer.
-
 Languages 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,php,dart,java)](https://skillicons.dev)
